@@ -12,6 +12,7 @@ namespace dotnet_vjezba.Models
         public byte[] PasswordHash { get; set; }
         public byte[] PasswordSalt { get; set; }
         public List<Character> Characters { get; set; }
-
+        public List<Post> Posts { get; set; }
+        
     }
 }

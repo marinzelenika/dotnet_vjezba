@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using dotnet_vjezba.Data;
 using dotnet_vjezba.Services.CharacterService;
+using dotnet_vjezba.Services.PostService;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -37,6 +38,7 @@ namespace dotnet_vjezba
             services.AddDbContext<DataContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<ICharacterService, CharacterService>();
             services.AddScoped<IAuthRepository, AuthRepository>();
+            services.AddScoped<IPostService, PostService>();
             services.AddAutoMapper(typeof(Startup));
             services.AddSwaggerGen(c =>
             {

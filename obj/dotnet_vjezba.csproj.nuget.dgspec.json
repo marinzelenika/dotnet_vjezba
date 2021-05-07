@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marin.zelenika\\Desktop\\dotnet_vjezba\\dotnet_vjezba.csproj": {}
+    "C:\\Users\\marin.zelenika\\Desktop\\dotnet1\\dotnet_vjezba\\dotnet_vjezba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marin.zelenika\\Desktop\\dotnet_vjezba\\dotnet_vjezba.csproj": {
+    "C:\\Users\\marin.zelenika\\Desktop\\dotnet1\\dotnet_vjezba\\dotnet_vjezba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marin.zelenika\\Desktop\\dotnet_vjezba\\dotnet_vjezba.csproj",
+        "projectUniqueName": "C:\\Users\\marin.zelenika\\Desktop\\dotnet1\\dotnet_vjezba\\dotnet_vjezba.csproj",
         "projectName": "dotnet_vjezba",
-        "projectPath": "C:\\Users\\marin.zelenika\\Desktop\\dotnet_vjezba\\dotnet_vjezba.csproj",
+        "projectPath": "C:\\Users\\marin.zelenika\\Desktop\\dotnet1\\dotnet_vjezba\\dotnet_vjezba.csproj",
         "packagesPath": "C:\\Users\\marin.zelenika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marin.zelenika\\Desktop\\dotnet_vjezba\\obj\\",
+        "outputPath": "C:\\Users\\marin.zelenika\\Desktop\\dotnet1\\dotnet_vjezba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marin.zelenika\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
