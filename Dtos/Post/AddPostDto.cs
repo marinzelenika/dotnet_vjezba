@@ -8,6 +8,6 @@ namespace dotnet_vjezba.Dtos.Post
         public string body { get; set; }
         public DateTime createdAt { get; set; }
         public DateTime updatedAt { get; set; }
-        public Models.User User { get; set; }
+        //public Models.User User { get; set; }
     }
 }
