@@ -1,2 +1,2 @@
 # dotnet_vjezba
-Crud s dva povezana entiteta, autentifikacijom i autorizacijom
+Crud with two conected entities, autenthentication and authorisation
